@@ -1,0 +1,2 @@
+#!/bin/bash
+prinf "4.2f" $NUM | sort
